@@ -18,7 +18,7 @@ public class HelloWorldResource {
 		logger.info("sample info message");
 		logger.warn("sample warning message");
 		logger.error("sample error message");
-		return "Welcome to a \nCOOL CloudMunch Demo Aug 10, 2015";
+		return "Welcome to a WONDERFUL CloudMunch Demo Aug 11, 2015";
 	}
 
 }
