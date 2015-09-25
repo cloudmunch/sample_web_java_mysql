@@ -18,7 +18,7 @@ public class HelloWorldResource {
 		logger.info("sample info message");
 		logger.warn("sample warning message");
 		logger.error("sample error message");
-		return "Welcome to  DevOps Demo Aug 19, 2015";
+		return "Welcome to Wipro DevOps Demo 2015";
 	}
 
 }
